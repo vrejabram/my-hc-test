@@ -1,9 +1,0 @@
----
-apiVersion: kubeaddons.mesosphere.io/v1beta1
-kind: AddonRepository
-metadata:
-  name: base
-spec:
-  priority: "1"
-  url: "https://github.com/realmbgl/my-hc-test"
-  ref: "master"
