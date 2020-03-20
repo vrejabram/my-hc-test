@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-21T00:05:46.253601915+04:00"
+    description: A Helm chart for Kubernetes
+    digest: 6f388913e1172bea5822718d1fe0774d59a5055e9eeae9e80c8f4aaa06832ef2
+    name: mychart
+    urls:
+    - https://vrejabram.github.io/my-hc-test/mychart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-21T00:05:46.25310728+04:00"
+    description: A Helm chart for Kubernetes
+    digest: b9ea00e790bef5e4e3b925997127d5df614c4f8d2c51d44cdcb4a46c625b55c8
+    name: mychart
+    urls:
+    - https://vrejabram.github.io/my-hc-test/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-21T00:05:46.252471092+04:00"
