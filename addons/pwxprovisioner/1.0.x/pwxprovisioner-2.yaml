@@ -18,7 +18,7 @@ spec:
   kubernetes:
     minSupportedVersion: v1.15.6
   cloudProvider:
-    - name: aws
+    - name: none
       enabled: true
   chartReference:
     chart: pwxonprem
