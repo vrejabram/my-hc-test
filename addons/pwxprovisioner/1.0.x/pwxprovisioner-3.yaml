@@ -10,7 +10,7 @@ metadata:
     catalog.kubeaddons.mesosphere.io/addon-revision: "1.0.0-3"
     appversion.kubeaddons.mesosphere.io/pwxprovisioner: "2.3.0"
     endpoint.kubeaddons.mesosphere.io/px-lighthouse: "/ops/portal/px-lighthouse"
-    docs.kubeaddons.mesosphere.io/kibana: "https://docs.portworx.com"
+    docs.kubeaddons.mesosphere.io/portworx: "https://docs.portworx.com"
     values.chart.helm.kubeaddons.mesosphere.io/pwxprovisioner: "https://central.portworx.com/"
 spec:
   namespace: kube-system
